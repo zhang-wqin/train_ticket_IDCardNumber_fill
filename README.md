@@ -15,23 +15,23 @@ B0320 等价于 M03D20
 
 1.普通查询：输入18位，缺省用*代替
 
-![image](https://github.com/zhang-wqin/train_ticket_IDCardNumber_fill/tree/main/README.assets/image-20210124113508762.png)
+![image-20210124113508762](README.assets/image-20210124113508762.png)
 
-![image-20210124113531201](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210124113531201.png)
+![image-20210124113531201](README.assets/image-20210124113531201.png)
 
 
 
 2.查询指定生日为2月29日
 
-![image-20210124113927500](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210124113927500.png)
+![image-20210124113927500](README.assets/image-20210124113927500.png)
 
 
 
 3.查询指定 2000-2021年 3月
 
-![image-20210124113156360](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210124113156360.png)
+![image-20210124113156360](README.assets/image-20210124113156360.png)
 
-![image-20210124113637189](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210124113637189.png)
+![image-20210124113637189](README.assets/image-20210124113637189.png)
 
 
 
@@ -39,6 +39,6 @@ B0320 等价于 M03D20
 
 4.指定2000-2999 生日为3月31的查询
 
-![image-20210124113402189](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210124113402189.png)
+![image-20210124113402189](README.assets/image-20210124113402189.png)
 
 （身份证是20**， 所以2999太大了）
