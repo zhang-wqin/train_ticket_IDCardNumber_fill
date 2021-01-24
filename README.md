@@ -15,7 +15,7 @@ B0320 等价于 M03D20
 
 1.普通查询：输入18位，缺省用*代替
 
-![image-20210124113508762](https://github.com/zhang-wqin/train_ticket_IDCardNumber_fill/tree/main/README.assets/image-20210124113508762.png)
+![image](https://github.com/zhang-wqin/train_ticket_IDCardNumber_fill/tree/main/README.assets/image-20210124113508762.png)
 
 ![image-20210124113531201](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210124113531201.png)
 
